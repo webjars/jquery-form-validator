@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-form-validator</artifactId>
-    <version>2.1.47</version>
+    <version>2.1.48-SNAPSHOT</version>
     <name>jQuery Form Validator</name>
     <description>WebJar for jQuery Form Validator</description>
     <url>http://webjars.org</url>
@@ -58,7 +58,7 @@
         <url>http://github.com/webjars/jquery-form-validator</url>
         <connection>scm:git:https://github.com/webjars/jquery-form-validator.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-form-validator.git</developerConnection>
-        <tag>jquery-form-validator-2.1.47</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
